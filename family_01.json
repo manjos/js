@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "5fb6aa11a2acff1151c819d8",
+    "index": 0,
+    "nome": "Mauricio",
+    "likes": 8909089
+  },
+  {
+    "_id": "5fb6aa11d8605b413b5225e6",
+    "index": 1,
+    "nome": "Thais",
+    "likes": 12
+  },
+  {
+    "_id": "5fb6aa1194ae226dd0325979",
+    "index": 2,
+    "nome": "Paloma",
+    "likes": 12332
+  },
+  {
+    "_id": "5fb6aa1193592b4c2a4610b0",
+    "index": 3,
+    "nome": "Candida",
+    "likes": 980021
+  },
+  {
+    "_id": "5fb6aa115601d435b926cbdb",
+    "index": 4,
+    "nome": "Lidio",
+    "likes": 123
+  }
+]
